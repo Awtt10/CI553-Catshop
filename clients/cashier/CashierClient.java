@@ -36,7 +36,7 @@ public class CashierClient
   {     
     JFrame  window = new JFrame();
      
-    window.setTitle( "Cashier Client (MVC RMI)");
+    window.setTitle( "Cashier Client1 (MVC RMI)");
     window.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
     
     CashierModel      model = new CashierModel(mf);
